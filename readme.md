@@ -64,3 +64,17 @@
 csgo|198|1
 pubg|98|2
 LoL|200|3
+
+## 插入代码
+
+```c
+  #include <stdio.h>
+  #include <stdlib.h>
+  #include <string.h>
+  //c语言代码
+  int main(void)
+  {
+	printf("testing code...\n");
+	return 0;
+  }
+```
